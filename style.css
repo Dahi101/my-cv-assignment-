@@ -1,0 +1,59 @@
+h1{
+color: #234B3A;
+font-size: 40px;
+font-family:Bell MT;
+}
+body{
+background-color: beige;
+line-height: 15px;
+}
+p{
+color: #292D2A;
+font-size: 25px;
+font-family:Cambria ;
+}
+.intro-c{
+line-height: 25px;
+}
+.Carr2{
+line-height: 25px;
+}
+
+ul{
+font-size: 30px;
+color: #122A00;
+line-height: 35px;
+}
+.s1 ul{
+line-height: 10px;
+color: #122A00;
+}
+h3{
+font-size: 28px;
+}
+img{
+width: 200px;
+height: 200px;
+border: 5px solid #23453A;
+border-radius: 100px;
+object-fit: cover;
+object-position: 25% left;
+object-position: 75% top;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.intro-a{
+display: flex;
+flex-direction: row;
+align-items: center;
+line-height: 10px;
+}
+.skills ul{
+color: #122A00;
+}
+
+.style{
+background-color: #12660B;
+}
+.f1 p{
+font-size: 15px;
+}
